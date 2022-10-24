@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <br><br>
 <strong>Blog & LinkedIn</strong><br><br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=www.notion.so/rift-dash-c20/)](www.notion.so/rift-dash-c20/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=rift-dash-c20.notion.site/)](rift-dash-c20.notion.site/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stardust-hoggy-94b0b2247/)](https://www.linkedin.com/in/stardust-hoggy-94b0b2247/)
