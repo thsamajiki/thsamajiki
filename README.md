@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <br><br>
 <strong>Blog & LinkedIn</strong><br><br>
-<a href="www.notion.so/rift-dash-c20" target="_blank">기술 블로그</a><br>
+<a href="[https://www.notion.so/rift-dash-c20](https://rift-dash-c20.notion.site/My-Profile-597fa79dfdba403ba38af68ce9b13b91)" target="_blank">기술 블로그</a><br>
 <a href="https://www.linkedin.com/in/stardust-hoggy-94b0b2247/" target="_blank">LinkedIn</a>
