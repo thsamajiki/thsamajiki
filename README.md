@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/52778897_2901628753184288_8614691470688911360_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=lRMClUxJD8YAX-FGjMq&_nc_ht=scontent-ssn1-1.xx&oh=00_AT_ECdqQOArsezVKi9JAYKu8NdCOZN8ZohQaxX56Ze4xoA&oe=63795D98">
+<img src="https://minimalistquotes.com/posterimages/patience-is-a-key-element-of-success.jpg" width="850px" height="478px">
 
 
 ### 곧 취업할 날이 올 것이다!
