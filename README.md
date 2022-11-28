@@ -28,3 +28,10 @@ Here are some ideas to get you started:
 <strong>Blog & LinkedIn</strong><br><br>
 <a href="https://velog.io/@thsamajiki/%EC%86%8C%EA%B0%9C" target="_blank">기술 블로그</a><br>
 <a href="https://www.linkedin.com/in/stardust-hoggy-94b0b2247/" target="_blank">LinkedIn</a>
+
+
+<br><br>
+<strong>Android Weekly Newsletter</strong><br><br>
+<a href="https://androidweekly.net/" target="_blank">
+<img src="https://img.shields.io/badge/Android Weekly-7672FF?style=for-the-badge&logo=Android Weekly&logoColor=white">
+</a>
