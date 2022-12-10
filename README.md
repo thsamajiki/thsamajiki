@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://minimalistquotes.com/posterimages/patience-is-a-key-element-of-success.jpg" width="640px" height="360px">
 
 
-### 곧 취업할 날이 올 것이다!
+### 개발자들을 위한 개발자가 되기 위해 열심히 !
 
 <br><br>
 <strong>Tech Stack</strong><br><br>
