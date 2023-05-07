@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br><br>
 <strong>🎨Blog & LinkedIn🎨</strong><br><br>
 <a href="https://velog.io/@thsamajiki/%EC%86%8C%EA%B0%9C" target="_blank">기술 블로그</a><br>
-<a href="https://www.linkedin.com/in/stardust-hoggy-94b0b2247/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/%ED%98%B8%EC%84%AD-%EC%A0%95-94b0b2247/" target="_blank">LinkedIn</a>
 
 
 <br><br>
