@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <strong>🔨Tools🔨</strong><br><br>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <br><br>
 <strong>🎨Blog & LinkedIn🎨</strong><br><br>
