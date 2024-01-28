@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </a>
 
 <br><br>
-<strong>🎋Activity🎋</strong><br><br>
+<strong>🎋Activity🎋</strong>
 - Seoul Web 3.0 Hackathon 2023 (2023.07 ~ 2023.08)
 - 국회 공공데이터 활용 공모전 2024 (2024.01 ~ 2024.02)
 
