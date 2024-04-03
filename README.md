@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://minimalistquotes.com/posterimages/patience-is-a-key-element-of-success.jpg" width="640px" height="360px">
+<img src="C:/Users/Hoseop/Downloads/bill-gates-patience-quote.png" width="720px" height="504px">
 
 
 ### 개발자들을 위한 개발자가 되기 위해 열심히 노력하자!
