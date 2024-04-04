@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="images/bill-gates-patience-quote.png" width="720px" height="504px">
+<img src="images/bill-gates-patience-quote2.png" width="720px" height="504px">
 
 
 ### 개발자들을 위한 개발자가 되기 위해 열심히 노력하자!
