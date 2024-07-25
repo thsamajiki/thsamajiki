@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br><br>
 <strong>🎋Activity🎋</strong>
 - Seoul Web 3.0 Hackathon 2023 (2023.07 ~ 2023.08)
-- 국회 공공데이터 활용 경진대회 2024 (2024.01 ~ 2024.03)
+- 국회 공공데이터 활용 경진대회 2024 (2024.01 ~ 2024.06)
 
 <br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthsamajiki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
