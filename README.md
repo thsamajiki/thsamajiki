@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br><br>
 <strong>🔨Tools🔨</strong><br><br>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jetbrains_intellij_button_icon_151878.png" width="92px" height="20px" />
+<img src="https://w7.pngwing.com/pngs/376/844/png-transparent-jetbrains-intellij-button-icon.png" width="92px" height="20px" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 <br><br>
