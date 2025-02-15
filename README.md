@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <br><br>
 <strong>🎨Tech Blog & LinkedIn🎨</strong><br><br>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TechBlog)](https://spacelife.tistory.com/)<br>
-[![Velog Badge](https://img.shields.io/badge/-Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@thsamajiki/%EC%86%8C%EA%B0%9C/)](https://velog.io/@thsamajiki/%EC%86%8C%EA%B0%9C/)<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%98%B8%EC%84%AD-%EC%A0%95-94b0b2247/)](https://www.linkedin.com/in/%ED%98%B8%EC%84%AD-%EC%A0%95-94b0b2247/)
 
 
