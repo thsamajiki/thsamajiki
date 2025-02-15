@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - Seoul Web 3.0 Hackathon 2023 (2023.07 ~ 2023.08)
 - 국회 공공데이터 활용 경진대회 2024 (2024.01 ~ 2024.06)
 - 2024 오픈소스 컨트리뷰션 아카데미 활동 (2024.06 ~ 2024. 07)
-- 가짜연구소 9기 활동 (2024. 09 ~ 2024. 12)
+- 가짜연구소 9기 러너 활동 (2024. 09 ~ 2024. 12)
 
 <br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthsamajiki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
