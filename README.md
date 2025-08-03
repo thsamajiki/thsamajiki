@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <br><br>
 <strong>📰Android Weekly Newsletter📰</strong><br><br>
-<a href="https://androidweekly.net/" target='_blank'>
-<img src="https://img.shields.io/badge/Android Weekly-7672FF?style=for-the-badge&logo=Android Weekly&logoColor=white">
+<a href="https://androidweekly.net/" target="_blank">
+  <img src="https://img.shields.io/badge/Android Weekly-7672FF?style=for-the-badge&logo=Android Weekly&logoColor=white" />
 </a>
 
 <br><br>
